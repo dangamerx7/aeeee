@@ -102,7 +102,7 @@
     "mockdate": "3.0.5",
     "nixt": "0.5.1",
     "nock": "13.2.9",
-    "standard": "16.0.4",
+    "standard": "17.0.0",
     "standardx": "7.0.0",
     "supertest": "6.2.4",
     "uuid": "8.3.2"
